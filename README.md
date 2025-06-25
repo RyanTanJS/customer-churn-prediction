@@ -62,4 +62,3 @@ Churn is a major buisness problem, by retaining customers through predicting whi
 
 - Monitor model performance over time.
 
-## 9. Pacakage Versions 
